@@ -2,9 +2,9 @@
  All of my OSU Bootcamp files
 
 
-##*Odin*
+## *Odin*
 Contains lesson files
 
 
-##*Freyja*
+## *Freyja*
 Contains Lesson Videos
